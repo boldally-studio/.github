@@ -1,4 +1,4 @@
-# 👋 Welcome to Boldally
+# 👋 Welcome to Boldally Studio
 
 We build **websites, apps, and custom software** that people love to use.  
 Design-first. Code-smart. Performance-driven.
